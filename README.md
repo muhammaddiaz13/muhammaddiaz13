@@ -4,16 +4,16 @@
 ![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-orange?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Interests-Machine%20Learning-brightgreen?style=for-the-badge)
 
-### 🚀 About Me
+###  About Me
 *   🎓 **Undergraduate Computer Science Student** at **Universitas Sumatera Utara**.
 *   🛠️ Currently leading the development of **ZakaFlow-OOP-Project** using Spring Boot.
 
-### 🎯 Career Interests & Aspirations
+###  Career Interests & Aspirations
 *   🤖 **AI Engineer** | 💻 **Software Engineer**
 *   Deeply interested in building scalable software and exploring Machine Learning models.
 *   Focused on **Software Development** and **AI Integration** in academic workflows.
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 *   **Languages & Frameworks:** Java (PBO), Spring Boot, and Pascal.
 *   **Primary IDE:** Visual Studio Code & IntelliJ IDEA.
 *   **Operating System:** MacOS (MacBook Air M1 2020).
