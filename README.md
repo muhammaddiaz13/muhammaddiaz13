@@ -5,11 +5,11 @@
 ![Machine Learning](https://img.shields.io/badge/Interests-Machine%20Learning-brightgreen?style=for-the-badge)
 
 ###  About Me
-*   🎓 **Undergraduate Computer Science Student** at **Universitas Sumatera Utara**.
-*   🛠️ Currently leading the development of **ZakaFlow-OOP-Project** using Spring Boot.
+*    **Undergraduate Computer Science Student** at **Universitas Sumatera Utara**.
+*    Currently leading the development of **ZakaFlow-OOP-Project** using Spring Boot.
 
 ###  Career Interests & Aspirations
-*   🤖 **AI Engineer** | 💻 **Software Engineer**
+*    **AI Engineer** |  **Software Engineer**
 *   Deeply interested in building scalable software and exploring Machine Learning models.
 *   Focused on **Software Development** and **AI Integration** in academic workflows.
 
