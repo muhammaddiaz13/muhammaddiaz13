@@ -15,7 +15,7 @@
 
 ### 💻 Tech Stack & Tools
 *   **Languages & Frameworks:** Java (PBO), Spring Boot, and Pascal.
-*   **Primary IDE:** IntelliJ IDEA.
+*   **Primary IDE:** Visual Studio Code & IntelliJ IDEA.
 *   **Operating System:** MacOS (MacBook Air M1 2020).
 
 ### 📈 GitHub Stats
